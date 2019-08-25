@@ -1,0 +1,13 @@
+/.cache
+/public/*.js
+/public/*.map
+/iisnode
+users.json
+/.vscode
+/users.json
+/public/*.css
+settings.*
+/downloads
+./databaseBackups.json
+/imports
+/surveywebmerge_tool
